@@ -1,0 +1,13 @@
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\bin\Debug\netcoreapp3.1\ListaArtilheiros.exe
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\bin\Debug\netcoreapp3.1\ListaArtilheiros.deps.json
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\bin\Debug\netcoreapp3.1\ListaArtilheiros.runtimeconfig.json
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\bin\Debug\netcoreapp3.1\ListaArtilheiros.runtimeconfig.dev.json
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\bin\Debug\netcoreapp3.1\ListaArtilheiros.dll
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\bin\Debug\netcoreapp3.1\ListaArtilheiros.pdb
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\obj\Debug\netcoreapp3.1\ListaArtilheiros.csprojAssemblyReference.cache
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\obj\Debug\netcoreapp3.1\ListaArtilheiros.AssemblyInfoInputs.cache
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\obj\Debug\netcoreapp3.1\ListaArtilheiros.AssemblyInfo.cs
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\obj\Debug\netcoreapp3.1\ListaArtilheiros.csproj.CoreCompileInputs.cache
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\obj\Debug\netcoreapp3.1\ListaArtilheiros.dll
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\obj\Debug\netcoreapp3.1\ListaArtilheiros.pdb
+C:\Cursos - DIO\.net\desafios\ListaArtilheiros\obj\Debug\netcoreapp3.1\ListaArtilheiros.genruntimeconfig.cache
